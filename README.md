@@ -2,6 +2,9 @@
 
 This is a simple **Todo List** web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to add tasks, view them, and delete them once completed. It provides a clean and minimalistic user interface and is a great project to help improve your front-end development skills.
 
+![image](https://github.com/user-attachments/assets/a029b82a-c372-4778-b4d9-609f800069ae)
+  <!-- Add this line after your description -->
+
 ## Features
 
 - **Add Task**: Add tasks by typing into the input field and clicking the "Add" button.
@@ -42,4 +45,3 @@ This is a simple **Todo List** web application built using **HTML**, **CSS**, an
    - The tasks are dynamically added and removed using DOM manipulation, ensuring the page updates without requiring a reload.
 
 With this setup, you can easily add and remove tasks, providing a simple yet functional Todo List web application.
-
