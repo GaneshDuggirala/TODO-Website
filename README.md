@@ -1,5 +1,3 @@
-# TODO-Website
-
 # Todo List Web Application
 
 This is a simple **Todo List** web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to add tasks, view them, and delete them once completed. It provides a clean and minimalistic user interface and is a great project to help improve your front-end development skills.
